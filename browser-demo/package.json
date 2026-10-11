@@ -1,0 +1,1 @@
+{"name":"campusmate-companion-demo","version":"2.1.0","private":true,"type":"module","scripts":{"start":"node server.mjs","test":"node --test domain.test.mjs native-rules.test.mjs final-boundaries.test.mjs"},"engines":{"node":">=22.16"}}
